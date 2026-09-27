@@ -2,11 +2,11 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["UK652GNPP7.com.clantab.app"],
+        "appIDs": ["UK652GNPP7.com.palance.app"],
         "components": [
           {
             "/": "/g/*",
-            "comment": "Group invite links open directly in the ClanTab app"
+            "comment": "Group invite links open directly in the Palance app"
           }
         ]
       }

@@ -1,7 +1,7 @@
-# clantab-website
+# palance-website
 
-Marketing + App Store support site for **ClanTab**, deployed to
-`clantab.nakka.dev`.
+Marketing + App Store support site for **Palance**, deployed to
+`palance.nakka.dev`.
 
 Plain static HTML/CSS, no build step, no JS, no backend, no forms —
 matches the `nakka-dev-website` convention. Deploy target: Cloudflare
@@ -20,13 +20,13 @@ Pages (root directory = repo root, no build command).
 ## Content sources
 
 `support.html` and `privacy.html` here are adapted from
-`clantab-ios/docs/support.html` and `clantab-ios/docs/privacy-policy.md`.
-**Those files in `clantab-ios` stay the source of truth** — when either
+`palance-ios/docs/support.html` and `palance-ios/docs/privacy-policy.md`.
+**Those files in `palance-ios` stay the source of truth** — when either
 changes there, re-sync the corresponding page here by hand. This isn't
 automated yet; see `WEBSITE_PLAN.md`.
 
 Screenshots (`/screenshots/`) and the wordmark/icon (`/brand/`) are
-copied from `clantab-ios/docs/screenshots/` and `docs/branding/` —
+copied from `palance-ios/docs/screenshots/` and `docs/branding/` —
 re-copy if those are refreshed.
 
 ## Local preview
